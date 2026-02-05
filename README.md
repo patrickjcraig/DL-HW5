@@ -102,9 +102,9 @@ Input (28×28×1) ─┬─→ AlexNet Branch (frozen) ─┐
 ## 📊 Training Configuration
 
 ### Dataset Split
-- **Training Set**: 500 samples (49.5%)
-- **Validation Set**: 200 samples (19.8%)
-- **Test Set**: 300 samples (29.7%)
+- **Training Set**: 500 samples (50.0%)
+- **Validation Set**: 200 samples (20.0%)
+- **Test Set**: 300 samples (30.0%)
 
 ### Hyperparameters
 - **Optimizer**: Adam (learning rate: 1e-4)
